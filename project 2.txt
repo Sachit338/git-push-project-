@@ -1,0 +1,14 @@
+how would you move your local repository to a remote github repository? Descibe the steps you would take to add the remote github repository. push your local chnages and verify that the file were sucessfully transerred.
+
+mkdir cop1
+cd copy1
+git init
+ls -lart
+
+
+
+
+
+
+
+Q2 how to get updated ode/data from remote repository 
